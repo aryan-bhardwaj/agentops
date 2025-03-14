@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Adventure Finder Frontend
 
 This is the frontend for the Adventure Finder application, built with React, TypeScript, and Tailwind CSS.
@@ -45,3 +46,6 @@ vercel
 ## Backend
 
 The frontend is configured to communicate with a backend API at `http://localhost:5000` for local development. For production, you should update the API URL in `src/App.tsx`. 
+=======
+# agentops
+>>>>>>> e4c2fccd5067f18b06e0eabc981503617ddde841
